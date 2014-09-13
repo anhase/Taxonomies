@@ -1,0 +1,248 @@
+{
+  "name": "DataEcosystem",
+  "children": [
+    {
+      "name": "Creators",
+      "children": [
+        {
+          "name": "Open",
+          "children": [
+            {
+              "name": "ToPub"
+            },
+            {
+              "name": "ToOrgs"
+            },
+            {
+              "name": "Shrbl"
+            },
+            {
+              "name": "Free"
+            }
+          ]
+        },
+        {
+          "name": "OpenAtCost",
+          "children": [
+            {
+              "name": "ToPub"
+            },
+            {
+              "name": "ToOrgs"
+            },
+            {
+              "name": "Shrbl"
+            },
+            {
+              "name": "ForCost"
+            }
+          ]
+        },
+        {
+          "name": "Closed",
+          "children": [
+            {
+              "name": "TechCap"
+            },
+            {
+              "name": "Cost"
+            },
+            {
+              "name": "Lgl"
+            },
+            {
+              "name": "PubInt"
+            },
+            {
+              "name": "Othr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Consumers",
+      "children": [
+        {
+          "name": "ForFree",
+          "children": [
+            {
+              "name": "FrmPub"
+            },
+            {
+              "name": "FrmNFP"
+            },
+            {
+              "name": "FrmCmp"
+            },
+            {
+              "name": "Elswhr"
+            }
+          ]
+        },
+        {
+          "name": "Pays",
+          "children": [
+            {
+              "name": "FrmPub"
+            },
+            {
+              "name": "FrmNFP"
+            },
+            {
+              "name": "FrmCmp"
+            },
+            {
+              "name": "Elswhr"
+            }
+          ]
+        },
+        {
+          "name": "Products",
+          "children": [
+            {
+              "name": "IntEval"
+            },
+            {
+              "name": "ExtEval"
+            },
+            {
+              "name": "DigMda"
+            },
+            {
+              "name": "PrntMda"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Enablers",
+      "children": [
+        {
+          "name": "Volunteer",
+          "children": [
+            {
+              "name": "Srvcs"
+            },
+            {
+              "children": [
+                {
+                  "name": "Train"
+                },
+                {
+                  "name": "Anlys"
+                },
+                {
+                  "name": "Othr"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "name": "Goods"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Hrdwr"
+                    },
+                    {
+                      "name": "Need"
+                    },
+                    {
+                      "name": "Othr"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Funded",
+          "children": [
+            {
+              "name": "Srvcs"
+            },
+            {
+              "children": [
+                {
+                  "name": "Train"
+                },
+                {
+                  "name": "Anlys"
+                },
+                {
+                  "name": "Othr"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "name": "Goods"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Hrdwr"
+                    },
+                    {
+                      "name": "Need"
+                    },
+                    {
+                      "name": "Othr"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Paid",
+          "children": [
+            {
+              "name": "Srvcs"
+            },
+            {
+              "children": [
+                {
+                  "name": "Train"
+                },
+                {
+                  "name": "Anlys"
+                },
+                {
+                  "name": "Othr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "name": "Goods"
+            },
+            {
+              "children": [
+                {
+                  "name": "Hrdwr"
+                },
+                {
+                  "name": "Need"
+                },
+                {
+                  "name": "Othr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
