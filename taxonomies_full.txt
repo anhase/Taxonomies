@@ -45,11 +45,11 @@
               "name": "Cost"
             },
             {
-              "name": "Legal_reasons"
+              "name": "Permissions"
             },
             {
               "name": "Public_interest"
-            },
+            }
           ]
         }
       ]
@@ -86,19 +86,28 @@
           ]
         },
         {
-          "name": "Created_products",
+          "name": "Used_data_for",
           "children": [
             {
-              "name": "Used_for_internal_evaluation"
+              "name": "Resource_allocation"
             },
             {
-              "name": "Used_for_external_evaluation"
+              "name": "Measuring_impact"
             },
             {
-              "name": "Were_formatted_as_digital_media"
+              "name": "Advocacy_and_outreach"
             },
             {
-              "name": "Were_formatted_as_print_media"
+              "name": "Understanding_the_needs_of_the_people_servced"
+            },
+            {
+              "name": "Donor_development"
+            },
+            {
+              "name": "Operations"
+            },
+            {
+              "name": "Research"
             }
           ]
         }
