@@ -8,54 +8,48 @@
           "name": "Open",
           "children": [
             {
-              "name": "ToPub"
+              "name": "To_the_public"
             },
             {
-              "name": "ToOrgs"
+              "name": "To_organizations"
             },
             {
-              "name": "Shrbl"
+              "name": "Data_is_shareable"
             },
             {
-              "name": "Free"
+              "name": "Data_is_free"
             }
           ]
         },
         {
-          "name": "OpenAtCost",
+          "name": "Open_at_cost",
           "children": [
             {
-              "name": "ToPub"
+              "name": "To_the_public"
             },
             {
-              "name": "ToOrgs"
+              "name": "To_organizations"
             },
             {
-              "name": "Shrbl"
+              "name": "Data_is_shareable"
             },
-            {
-              "name": "ForCost"
-            }
           ]
         },
         {
-          "name": "Closed",
+          "name": "Closed_due_to",
           "children": [
             {
-              "name": "TechCap"
+              "name": "Technical_capacity"
             },
             {
               "name": "Cost"
             },
             {
-              "name": "Lgl"
+              "name": "Legal_reasons"
             },
             {
-              "name": "PubInt"
+              "name": "Public_interest"
             },
-            {
-              "name": "Othr"
-            }
           ]
         }
       ]
@@ -64,53 +58,47 @@
       "name": "Consumers",
       "children": [
         {
-          "name": "ForFree",
+          "name": "For_free",
           "children": [
             {
-              "name": "FrmPub"
+              "name": "From_public_data_sources"
             },
             {
-              "name": "FrmNFP"
+              "name": "From_nonprofits"
             },
             {
-              "name": "FrmCmp"
+              "name": "From_companies"
             },
-            {
-              "name": "Elswhr"
-            }
           ]
         },
         {
-          "name": "Pays",
+          "name": "Pay_for_their_data",
           "children": [
             {
-              "name": "FrmPub"
+              "name": "From_public_data_sources"
             },
             {
-              "name": "FrmNFP"
+              "name": "From_nonprofits"
             },
             {
-              "name": "FrmCmp"
+              "name": "From_companies"
             },
-            {
-              "name": "Elswhr"
-            }
           ]
         },
         {
-          "name": "Products",
+          "name": "Created_products",
           "children": [
             {
-              "name": "IntEval"
+              "name": "Used_for_internal_evaluation"
             },
             {
-              "name": "ExtEval"
+              "name": "Used_for_external_evaluation"
             },
             {
-              "name": "DigMda"
+              "name": "Were_formatted_as_digital_media"
             },
             {
-              "name": "PrntMda"
+              "name": "Were_formatted_as_print_media"
             }
           ]
         }
@@ -123,125 +111,44 @@
           "name": "Volunteer",
           "children": [
             {
-              "name": "Srvcs"
+              "name": "Training"
             },
             {
-              "children": [
-                {
-                  "name": "Train"
-                },
-                {
-                  "name": "Anlys"
-                },
-                {
-                  "name": "Othr"
-                }
-              ]
+              "name": "Analysis"
             },
             {
-              "children": [
-                {
-                  "name": "Goods"
-                },
-                {
-                  "children": [
-                    {
-                      "name": "Hrdwr"
-                    },
-                    {
-                      "name": "Need"
-                    },
-                    {
-                      "name": "Othr"
-                    }
-                  ]
-                }
-              ]
-            }
+              "name": "Hardware"
+            },
           ]
         },
         {
-          "name": "Funded",
+          "name": "Funded_to_provide",
           "children": [
             {
-              "name": "Srvcs"
+              "name": "Training"
             },
             {
-              "children": [
-                {
-                  "name": "Train"
-                },
-                {
-                  "name": "Anlys"
-                },
-                {
-                  "name": "Othr"
-                }
-              ]
+              "name": "Analysis"
             },
             {
-              "children": [
-                {
-                  "name": "Goods"
-                },
-                {
-                  "children": [
-                    {
-                      "name": "Hrdwr"
-                    },
-                    {
-                      "name": "Need"
-                    },
-                    {
-                      "name": "Othr"
-                    }
-                  ]
-                }
-              ]
-            }
+              "name": "Hardware"
+            },
           ]
         },
         {
-          "name": "Paid",
+          "name": "Paid_to_provide",
           "children": [
             {
-              "name": "Srvcs"
+              "name": "Training"
             },
             {
-              "children": [
-                {
-                  "name": "Train"
-                },
-                {
-                  "name": "Anlys"
-                },
-                {
-                  "name": "Othr"
-                }
-              ]
-            }
+              "name": "Analysis"
+            },
+            {
+              "name": "Hardware"
+            },
           ]
         },
-        {
-          "children": [
-            {
-              "name": "Goods"
-            },
-            {
-              "children": [
-                {
-                  "name": "Hrdwr"
-                },
-                {
-                  "name": "Need"
-                },
-                {
-                  "name": "Othr"
-                }
-              ]
-            }
-          ]
-        }
       ]
     }
   ]
