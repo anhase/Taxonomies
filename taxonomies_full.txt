@@ -32,7 +32,7 @@
             },
             {
               "name": "Data_is_shareable"
-            },
+            }
           ]
         },
         {
@@ -68,7 +68,7 @@
             },
             {
               "name": "From_companies"
-            },
+            }
           ]
         },
         {
@@ -82,7 +82,7 @@
             },
             {
               "name": "From_companies"
-            },
+            }
           ]
         },
         {
@@ -127,7 +127,7 @@
             },
             {
               "name": "Hardware"
-            },
+            }
           ]
         },
         {
@@ -141,7 +141,7 @@
             },
             {
               "name": "Hardware"
-            },
+            }
           ]
         },
         {
@@ -155,7 +155,7 @@
             },
             {
               "name": "Hardware"
-            },
+            }
           ]
         }
       ]
