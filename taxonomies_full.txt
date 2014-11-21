@@ -86,7 +86,7 @@
           ]
         },
         {
-          "name": "Used_data_for",
+          "name": "Use_data_for",
           "children": [
             {
               "name": "Resource_allocation"
