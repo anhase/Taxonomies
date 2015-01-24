@@ -1,6 +1,6 @@
 Taxonomies
 ==========
 
-Raw taxonomy files for the Chicago School of Data project
+Raw taxonomy files for the Chicago School of Data project.
 
-.json file, which defines a data ecosystem structure.
+Using a .json file, which defines a data ecosystem structure. 
