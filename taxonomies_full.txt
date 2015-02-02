@@ -98,7 +98,7 @@
               "name": "Advocacy_and_outreach"
             },
             {
-              "name": "Understanding_the_needs_of_the_people_servced"
+              "name": "Understanding_the_needs_of_the_people_served"
             },
             {
               "name": "Donor_development"
