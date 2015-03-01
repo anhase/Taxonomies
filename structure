@@ -90,368 +90,369 @@
           "children": [
             {
               "name": "Resource_allocation",
-                "children": [
-                {
-                  "name": "741 Collaborative"
-                },
-                {
-                  "name": "Access Community Health Network"
-                },       
-                {
-                  "name": "Active Transportation Alliance"
-                },                 
-                {                  
-                  "name": "Adler Planetarium"
-                }, 
-                {
-                  "name": "AIDS Foundation of Chicago"
-                },
-                {
-                  "name": "American Red Cross"
-                },
-                {
-                  "name": "Andersonville Chamber of Commerce"
-                },
-                {
-                  "name": "Archdiocese of Chicago"
-                },
-                {
-                  "name": "ARkay Solutions"
-                },                     
-                {
-                  "name": "Arts Alliance Illinois"
-                },      
-                {
-                  "name": "Association House of Chicago"
-                },
-                {
-                  "name": "Bethel New Life"
-                },
-                {
-                  "name": "Big Shoulders Fund"
-                },
-                {
-                  "name": "Bottom Line"
-                },
-                {
-                  "name": "Bridge Communities"
-                },
-                {
-                  "name": "BUILD"
-                },
-                {
-                  "name": "Catalyst Group Global"
-                },
-                {
-                  "name": "CHANGE Illinois"
-                },  
-                {
-                  "name": "Changing Worlds"
-                },
-                {
-                  "name": "Chatham Business Association SBDI"
-                },
-                {
-                  "name": "Chicago Arts Partnerships in Education"
-                },
-                {
-                  "name": "Chicago Cares"
-                },
-                {
-                  "name": "Chicago Children's Museum"
-                },
-                {
-                  "name": "Chicago Cook Workforce Partnership"
-                },
-                {
-                  "name": "Chicago Jobs Council"
-                },
-                {
-                  "name": "CHICAGO PUBLIC LIBRARY ARCHER HEIGHTS BRANCH"
-                },
-                {
-                  "name": "Chicago Public Library Foundation"
-                },
-                {
-                  "name": "Chicago Public Schools"
-                },
-                {
-                  "name": "Chicago Sinfonietta"
-                },
-                {
-                  "name": "ChildServ"
-                },
-                {
-                  "name": "Christopher House"
-                },
-                {
-                  "name": "City Colleges of Chicago"
-                },
-                {
-                 "name": "Communications Languages and Culture Inc"
-                },
-                {
-                  "name": "Community Media Workshop"
-                },
-                {
-                  "name": "CREED Consulting"
-                },
-                {
-                  "name": "Data Science for Social Good"
-                },
-                {
-                  "name": "Deborahs Place"
-                },
-                {
-                  "name": "Delta Institute"
-                },
-                {
-                  "name": "DonorFuse"
-                },
-                {
-                  "name": "DonorPath"
-                },
-                {
-                  "name": "Enlace Chicago"
-                },
-                {
-                  "name": "Family Focus Inc"
-                },
-                {
-                  "name": "Family Resource Center on Disabilities"
-                },
-                {
-                  "name": "Family Shelter Service"
-                },
-                {
-                  "name": "First Folio Theatre"
-                },
-                {
-                  "name": "Foundations Of Music"
-                },
-                {
-                  "name": "Free Spirit Media"
-                },
-                {
-                  "name": "Gary Comer Youth Center"
-                },
-                {
-                  "name": "Get IN Chicago"
-                },
-                {
-                  "name": "Golden Apple Foundation"
-                },
-                {
-                  "name": "Greater Auburn Gresham Development Corporation"
-                },  
-                {
-                  "name": "Halcyon Theatre"
-                },
-                {
-                  "name": "Harvard University"
-                },
-                {
-                  "name": "Have Dreams"
-                },
-                {
-                  "name": "Healthy Schools Campaign"
-                },
-                {
-                  "name": "HHCS"
-                },  
-                {
-                  "name": "Housing Options for the Mentally Ill"
-                },
-                {
-                  "name": "Illinois Legal Aid Online"
-                },
-                {
-                  "name": "Illinois Mentoring Partnership"
-                },
-                {
-                  "name": "Impact Engine"
-                },
-                {
-                  "name": "Jane Addams Resource Corporation"
-                },
-                {
-                  "name": "Kelly Hall YMCA"
-                },
-                {
-                  "name": "La Casa Norte"
-                },
-                {
-                  "name": "LAF"
-                },
-                {
-                  "name": "Lawyers Committee for Better Housing"
-                },
-                {
-                  "name": "Leyden Family Service and Mental Health Center"
-                },  
-                {
-                  "name": "LISC Chicago"
-                },
-                {
-                  "name": "Loaves and Fishes Community Services"
-                },
-                {
-                  "name": "Logan Square Neighborhood Association"
-                },
-                {
-                  "name": "Lumity"
-                },
-                {
-                  "name": "Mercy Housing Lakefront"
-                },
-                {
-                  "name": "Metropolitan Planning Council"
-                },
-                {
-                  "name": "Microsoft"
-                },  
-                {
-                  "name": "Mikva Challenge"
-                },
-                {
-                  "name": "Museum of Contemporary Art Chicago"
-                },
-                {
-                  "name": "Museum of Science and Industry"
-                },
-                {
-                  "name": "National Latino Education Institute"
-                },
-                {
-                  "name": "Neighborhood Housing Services of Chicago Inc"
-                },
-                {
-                  "name": "Network For Teaching Entrepreneurship"
-                },
-                {
-                  "name": "New Life Centers of Chicagoland"
-                },
-                {
-                  "name": "Northwest Side Housing Center"
-                },
-                {
-                  "name": "Northwestern Memorial Hospital"
-                },
-                {
-                  "name": "OAI Inc"
-                },
-                {
-                  "name": "Oak Park River Forest Food Pantry"
-                },
-                {
-                  "name": "Openlands"
-                },
-                {
-                  "name": "OrangeBoy Inc"
-                },
-                {
-                  "name": "Peggy Notebaert Nature Museum"
-                },
-                {
-                  "name": "PODER"
-                },
-                {
-                  "name": "PositivEnergy Practice"
-                },
-                {
-                  "name": "Puerto Rican Cultural Center"
-                }, 
-                {
-                  "name": "Restoration Ministries Inc"
-                }, 
-                {
-                  "name": "Rogers Park Business Alliance"
-                },
-                {
-                  "name": "Safer Foundation"
-                },
-                {
-                  "name": "SGA Youth & Family Services"
-                },
-                {
-                  "name": "Shimer College"
-                },
-                {
-                  "name": "Social IMPACT Research Center at Heartland Alliance"
-                },
-                {
-                  "name": "South Asian American Policy and Research Institute"
-                },
-                {
-                  "name": "St Agatha Family Empowerment"
-                },
-                {
-                  "name": "St Pius V Church"
-                },
-                {
-                  "name": "Su Casa Catholic Worker"
-                },
-                {
-                  "name": "Symbol Training Institute"
-                },
-                {
-                  "name": "Technology Access Television"
-                },
-                {
-                  "name": "The Cara Program"
-                },
-                {
-                  "name": "The Chicago Public Education Fund"
-                },
-                {
-                  "name": "The Childrens Place Association"
-                },
-                {
-                  "name": "The Resurrection Project"
-                }, 
-                {
-                  "name": "United Way of Metropolitan Chicago"
-                },
-                {
-                  "name": "University of Chicago Medicine Urban Health Initiative"
-                },
-                {
-                  "name": "University of Illinois Chicago"
-                },
-                {
-                  "name": "Urban Gateways"
-                },
-                {
-                  "name": "Urban Initiatives"
-                },
-                {
-                  "name": "We The People Media Residents Journal"
-                },
-                {
-                  "name": "West Humboldt Park Development Council"
-                },
-                {
-                  "name": "Women Employed"
-                },
-                {
-                  "name": "World Business Chicago"
-                },
-                {
-                  "name": "YMCA of Metropolitan Chicago"
-                },
-                {
-                  "name": "Young Chicago Authors"
-                },
-                {
-                  "name": "Youth Outreach Services"
-                },
-                {
-                  "name": "Youth Service Project"
-                }
-              ]
+              "children": [
+              {
+                "name": "741 Collaborative"
+              },
+              {
+                "name": "Access Community Health Network"
+              },       
+              {
+                "name": "Active Transportation Alliance"
+              },                 
+              {                  
+                "name": "Adler Planetarium"
+              }, 
+              {
+                "name": "AIDS Foundation of Chicago"
+              },
+              {
+                "name": "American Red Cross"
+              },
+              {
+                "name": "Andersonville Chamber of Commerce"
+              },
+              {
+                "name": "Archdiocese of Chicago"
+              },
+              {
+                "name": "ARkay Solutions"
+              },                     
+              {
+                "name": "Arts Alliance Illinois"
+              },      
+              {
+                "name": "Association House of Chicago"
+              },
+              {
+                "name": "Bethel New Life"
+              },
+              {
+                "name": "Big Shoulders Fund"
+              },
+              {
+                "name": "Bottom Line"
+              },
+              {
+                "name": "Bridge Communities"
+              },
+              {
+                "name": "BUILD"
+              },
+              {
+                "name": "Catalyst Group Global"
+              },
+              {
+                "name": "CHANGE Illinois"
+              },  
+              {
+                "name": "Changing Worlds"
+              },
+              {
+                "name": "Chatham Business Association SBDI"
+              },
+              {
+                "name": "Chicago Arts Partnerships in Education"
+              },
+              {
+                "name": "Chicago Cares"
+              },
+              {
+                "name": "Chicago Children's Museum"
+              },
+              {
+                "name": "Chicago Cook Workforce Partnership"
+              },
+              {
+                "name": "Chicago Jobs Council"
+              },
+              {
+                "name": "Chicago Public Library"
+              },
+              {
+                "name": "Chicago Public Library Foundation"
+              },
+              {
+                "name": "Chicago Public Schools"
+              },
+              {
+                "name": "Chicago Sinfonietta"
+              },
+              {
+                "name": "ChildServ"
+              },
+              {
+                "name": "Christopher House"
+              },
+              {
+                "name": "City Colleges of Chicago"
+              },
+              {
+               "name": "Communications Languages and Culture Inc"
+              },
+              {
+                "name": "Community Media Workshop"
+              },
+              {
+                "name": "CREED Consulting"
+              },
+              {
+                "name": "Data Science for Social Good"
+              },
+              {
+                "name": "Deborahs Place"
+              },
+              {
+                "name": "Delta Institute"
+              },
+              {
+                "name": "DonorFuse"
+              },
+              {
+                "name": "DonorPath"
+              },
+              {
+                "name": "Enlace Chicago"
+              },
+              {
+                "name": "Family Focus Inc"
+              },
+              {
+                "name": "Family Resource Center on Disabilities"
+              },
+              {
+                "name": "Family Shelter Service"
+              },
+              {
+                "name": "First Folio Theatre"
+              },
+              {
+                "name": "Foundations Of Music"
+              },
+              {
+                "name": "Free Spirit Media"
+              },
+              {
+                "name": "Gary Comer Youth Center"
+              },
+              {
+                "name": "Get IN Chicago"
+              },
+              {
+                "name": "Golden Apple Foundation"
+              },
+              {
+                "name": "Greater Auburn Gresham Development Corporation"
+              },  
+              {
+                "name": "Halcyon Theatre"
+              },
+              {
+                "name": "Harvard University"
+              },
+              {
+                "name": "Have Dreams"
+              },
+              {
+                "name": "Healthy Schools Campaign"
+              },
+              {
+                "name": "HHCS"
+              },  
+              {
+                "name": "Housing Options for the Mentally Ill"
+              },
+              {
+                "name": "Illinois Legal Aid Online"
+              },
+              {
+                "name": "Illinois Mentoring Partnership"
+              },
+              {
+                "name": "Impact Engine"
+              },
+              {
+                "name": "Jane Addams Resource Corporation"
+              },
+              {
+                "name": "Kelly Hall YMCA"
+              },
+              {
+                "name": "La Casa Norte"
+              },
+              {
+                "name": "LAF"
+              },
+              {
+                "name": "Lawyers Committee for Better Housing"
+              },
+              {
+                "name": "Leyden Family Service and Mental Health Center"
+              },  
+              {
+                "name": "LISC Chicago"
+              },
+              {
+                "name": "Loaves and Fishes Community Services"
+              },
+              {
+                "name": "Logan Square Neighborhood Association"
+              },
+              {
+                "name": "Lumity"
+              },
+              {
+                "name": "Mercy Housing Lakefront"
+              },
+              {
+                "name": "Metropolitan Planning Council"
+              },
+              {
+                "name": "Microsoft"
+              },  
+              {
+                "name": "Mikva Challenge"
+              },
+              {
+                "name": "Museum of Contemporary Art Chicago"
+              },
+              {
+                "name": "Museum of Science and Industry"
+              },
+              {
+                "name": "National Latino Education Institute"
+              },
+              {
+                "name": "Neighborhood Housing Services of Chicago Inc"
+              },
+              {
+                "name": "Network For Teaching Entrepreneurship"
+              },
+              {
+                "name": "New Life Centers of Chicagoland"
+              },
+              {
+                "name": "Northwest Side Housing Center"
+              },
+              {
+                "name": "Northwestern Memorial Hospital"
+              },
+              {
+                "name": "OAI Inc"
+              },
+              {
+                "name": "Oak Park River Forest Food Pantry"
+              },
+              {
+                "name": "Openlands"
+              },
+              {
+                "name": "OrangeBoy Inc"
+              },
+              {
+                "name": "Peggy Notebaert Nature Museum"
+              },
+              {
+                "name": "PODER"
+              },
+              {
+                "name": "PositivEnergy Practice"
+              },
+              {
+                "name": "Puerto Rican Cultural Center"
+              }, 
+              {
+                "name": "Restoration Ministries Inc"
+              }, 
+              {
+                "name": "Rogers Park Business Alliance"
+              },
+              {
+                "name": "Safer Foundation"
+              },
+              {
+                "name": "SGA Youth and Family Services"
+              },
+              {
+                "name": "Shimer College"
+              },
+              {
+                "name": "Social IMPACT Research Center at Heartland Alliance"
+              },
+              {
+                "name": "South Asian American Policy and Research Institute"
+              },
+              {
+                "name": "St Agatha Family Empowerment"
+              },
+              {
+                "name": "St Pius V Church"
+              },
+              {
+                "name": "Su Casa Catholic Worker"
+              },
+              {
+                "name": "Symbol Training Institute"
+              },
+              {
+                "name": "Technology Access Television"
+              },
+              {
+                "name": "The Cara Program"
+              },
+              {
+                "name": "The Chicago Public Education Fund"
+              },
+              {
+                "name": "The Childrens Place Association"
+              },
+              {
+                "name": "The Resurrection Project"
+              }, 
+              {
+                "name": "United Way of Metropolitan Chicago"
+              },
+              {
+                "name": "University of Chicago Medicine Urban Health Initiative"
+              },
+              {
+                "name": "University of Illinois Chicago"
+              },
+              {
+                "name": "Urban Gateways"
+              },
+              {
+                "name": "Urban Initiatives"
+              },
+              {
+                "name": "We The People Media Residents Journal"
+              },
+              {
+                "name": "West Humboldt Park Development Council"
+              },
+              {
+                "name": "Women Employed"
+              },
+              {
+                "name": "World Business Chicago"
+              },
+              {
+                "name": "YMCA of Metropolitan Chicago"
+              },
+              {
+                "name": "Young Chicago Authors"
+              },
+              {
+                "name": "Youth Outreach Services"
+              },
+              {
+                "name": "Youth Service Project"
+              }
+             ]
             },
             {
-              "name": "Measuring_impact"
+              "name": "Measuring_impact",
+              "children": [
             },
             {
               "name": "Advocacy_and_outreach"
