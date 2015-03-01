@@ -89,7 +89,7 @@
           "name": "Use_data_for",
           "children": [
             {
-              "name": "Resource_allocation"
+              "name": "Resource_allocation",
                 "children": [
                 {
                   "name": "741 Collaborative"
@@ -245,7 +245,7 @@
                   "name": "Greater Auburn Gresham Development Corporation"
                 },  
                 {
-                  "name": "name": "Halcyon Theatre"
+                  "name": "Halcyon Theatre"
                 },
                 {
                   "name": "Harvard University"
@@ -264,11 +264,12 @@
                 },
                 {
                   "name": "Illinois Legal Aid Online"
-                },  
+                },
+                {
                   "name": "Illinois Mentoring Partnership"
                 },
                 {
-                  "name": "Impact Engine'
+                  "name": "Impact Engine"
                 },
                 {
                   "name": "Jane Addams Resource Corporation"
@@ -278,20 +279,21 @@
                 },
                 {
                   "name": "La Casa Norte"
-                },  
+                },
+                {
                   "name": "LAF (formerly Legal Assistance Foundation of Metropolitan Chicago)"
                 },
                 {
-                  "name": "Lawyers' Committee for Better Housing"
+                  "name": "Lawyers Committee for Better Housing"
                 },
                 {
-                  "name": "Leyden Family Service & Mental Health Center"
+                  "name": "Leyden Family Service and Mental Health Center"
                 },  
                 {
                   "name": "LISC Chicago"
                 },
                 {
-                  "name": "Loaves & Fishes Community Services"
+                  "name": "Loaves and Fishes Community Services"
                 },
                 {
                   "name": "Logan Square Neighborhood Association"
