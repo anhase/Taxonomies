@@ -1,24 +1,30 @@
 [
 	{
-	"org" : {
-			"name": "name",
-			"type": ["ntee", "irs", "ein"],
-			{
-				"ntee": "a54"
-				"irs": "501c3"
-				"ein": "ALONGEIN34"
-			},
-		"size": ["revenue", "employees"],
-			{
-				"revenue": 10000000,
-				"employees": 10
-			},
-		"scan": ["surveyQ1", "surveyQ2", "surveyQ3"],
-			{
-				"surveyQ1": [false, false, true, true],
-				"surveyQ2": [true, false, false],
-				"surveyQ3": true
-			},
-		}
+		"org" : {
+				"name": "name",
+				"type": 
+				[
+					{
+					"ntee": "a54"
+					"irs": "501c3"
+					"ein": "ALONGEIN34"
+					},
+				],
+				"size": 
+				[
+					{
+					"revenue": 10000000,
+					"employees": 10
+					},
+				],
+				"scan": 
+				[
+					{
+					"surveyQ1": [false, false, true, true],
+					"surveyQ2": [true, false, false],
+					"surveyQ3": true
+					},
+				]
+			}
 	}
 ]
