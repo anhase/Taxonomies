@@ -1,20 +1,17 @@
 var orgs = [
-	{"name"	: ["list", "of", "orgs"],
-	"type"	: ["list", "of", "types"],	
-	"size"	: ["revenue", "employees"],{
-		"revenue"	:	10000000
-		"employees"	:	10}, 
-	"scan"	:	["surveyQ1", "surveyQ2", "surveyQ3"]{
-		"surveyQ1"	:	["A", "B", "C", "D", "E"]{
-			"A"	:	false,
-			"B"	:	true,
-			"C"	:	true,
-			"D"	:	false,
-			"E"	:	true},
-		"surveyQ2"	:	["A", "B", "C"]{
-			"A"	:	true,
-			"B"	:	true,
-			"C"	:	true},
-		"surveyQ3"	:	true}
-		}
-	}	
+	{
+	"name": ["list", "of", "orgs"],
+	"type": ["list", "of", "types"],
+	"size": ["revenue", "employees"],
+		{
+		"revenue": 10000000,
+		"employees": 10
+		},
+	"scan": ["surveyQ1", "surveyQ2", "surveyQ3"],
+		{
+		"surveyQ1": [false, false, true, true],
+		"surveyQ2": [true, false, false],
+		"surveyQ3": true
+		},
+	},
+]
