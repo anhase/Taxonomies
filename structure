@@ -17,9 +17,15 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], "other",
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, "other",
+			"surveyQ4" : true, "other",
+			"surveyQ5" : true, "other",
+			"surveyQ6" : true, "other",
+			"surveyQ7" : [true, true, true, true, true, true, true, true], "other"
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], "other",
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true], "other",
 			}
 		},
 		{
