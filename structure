@@ -1,68 +1,20 @@
-{
-  "name": "Data_Ecosystem",
-  "children": [
-    {
-      "name": "Organization_Name",
-      "children": [
-        {
-          "name": "Type",
-          "children": [
-            {
-              "name": "NTEE"
-            },
-            {
-              "name": "IRS_Code"
-            },
-            {
-              "name": "EIN"
-            }
-          ]
-        },
-        {
-          "name": "Size",
-          "children": [
-            {
-              "name": "Revenue"
-            },
-            {
-              "name": "Employees"
-            }
-          ]
-        },
-        {
-          "name": "Scan",
-          "children": [
-            {
-              "name": "Use_data_for"
-            },
-            {
-              "name": "Needs_support"
-            },
-            {
-              "name": "SurveyQ3"
-            },
-            {
-              "name": "SurveyQ4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Another_Category",
-      "children": [
-        {
-          "name": "Another_Code",
-          "children": [
-            {
-              "name": "Code_Value1"
-            },
-            {
-              "name": "Code_Value2"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+var orgs = [
+	{"name"	: ["list", "of", "orgs"],
+	"type"	: ["list", "of", "types"],	
+	"size"	: ["revenue", "employees"],{
+		"revenue"	:	10000000
+		"employees"	:	10}, 
+	"scan"	:	["surveyQ1", "surveyQ2", "surveyQ3"]{
+		"surveyQ1"	:	["A", "B", "C", "D", "E"]{
+			"A"	:	false,
+			"B"	:	true,
+			"C"	:	true,
+			"D"	:	false,
+			"E"	:	true},
+		"surveyQ2"	:	["A", "B", "C"]{
+			"A"	:	true,
+			"B"	:	true,
+			"C"	:	true},
+		"surveyQ3"	:	true}
+		}
+	}	
