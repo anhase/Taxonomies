@@ -17,999 +17,71 @@
 			},
 		"scan": 
 			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true], 
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
 			"surveyQ1" : [false, false, true, true, true, true, true, true],
 			"surveyQ2" : ["one", "two", "three"],
-			"surveyQ3" : true,
-			"surveyQ4" : true,
-			"surveyQ5" : true,
-			"surveyQ6" : true,
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
 			"surveyQ7" : [true, true, true, true, true, true, true, true],
-			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true],
-			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true], 
-			}
-		},
-		{
-		"name" : "741 Collaborative",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "Access Community Health  Network",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "Active Transportation Alliance",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "Adler Planetarium",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "After School Matters",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "AIDS Foundation of Chicago",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "Albany Park Theater Project",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "Alliance for Illinois Manufacturing",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "Alphonsus Academy",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "American Legion Post 2091",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "American Red Cross",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "Andersonville Chamber of Commerce",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "Archdiocese of Chicago",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
 	    	{
-		"name" : "name",
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -1023,993 +95,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
 	    	{
-		"name" : "name",
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -2023,993 +121,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
 	    	{
-		"name" : "name",
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -3023,993 +147,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
-			}
-		},
-		{
-		"name" : "name",
-		"type" : 
-			{
-			"ntee" : "a54",
-			"irs" : "501c3",
-			"ein" : "ALONGEIN34"
-			},
-		"size": 
-			{
-			"revenue" : 10000000,
-			"employees" : 10
-			},
-		"scan": 
-			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
 	    	{
-		"name" : "name",
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4023,13 +173,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4043,13 +199,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4063,13 +225,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4083,13 +251,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4103,13 +277,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4123,13 +303,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true], 
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4143,13 +329,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true],
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4163,13 +355,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4183,13 +381,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4203,13 +407,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4223,13 +433,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4243,13 +459,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4263,13 +485,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4283,13 +511,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4303,13 +537,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4323,13 +563,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true], 
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4343,13 +589,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true],
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4363,13 +615,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4383,13 +641,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4403,13 +667,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4423,13 +693,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4443,13 +719,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4463,13 +745,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4483,13 +771,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4503,13 +797,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4523,13 +823,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true], 
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4543,13 +849,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true],
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4563,13 +875,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4583,13 +901,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4603,13 +927,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4623,13 +953,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4643,13 +979,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4663,13 +1005,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4683,13 +1031,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4703,13 +1057,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4723,13 +1083,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true], 
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4743,13 +1109,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true],
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4763,13 +1135,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4783,13 +1161,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4803,13 +1187,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4823,13 +1213,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4843,13 +1239,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4863,13 +1265,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4883,13 +1291,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4903,13 +1317,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4923,13 +1343,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true], 
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4943,13 +1369,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true],
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4963,13 +1395,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -4983,13 +1421,19 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
-		{
-		"name" : "name",
+	    	{
+		"name" : "#33cc77",
 		"type" : 
 			{
 			"ntee" : "a54",
@@ -5003,9 +1447,1159 @@
 			},
 		"scan": 
 			{
-			"surveyQ1" : [false, false, true, true],
-			"surveyQ2" : [true, false, false],
-			"surveyQ3" : true
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true], 
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true],
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true], 
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true],
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true], 
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true],
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true], 
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true],
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
+			}
+		},
+	    	{
+		"name" : "#33cc77",
+		"type" : 
+			{
+			"ntee" : "a54",
+			"irs" : "501c3",
+			"ein" : "ALONGEIN34"
+			},
+		"size": 
+			{
+			"revenue" : 10000000,
+			"employees" : 10
+			},
+		"scan": 
+			{
+			"surveyQ1" : [false, false, true, true, true, true, true, true], 
+			"surveyQ2" : ["one", "two", "three"],
+			"surveyQ3" : true, 
+			"surveyQ4" : true, 
+			"surveyQ5" : true, 
+			"surveyQ6" : true, 
+			"surveyQ7" : [true, true, true, true, true, true, true, true],
+			"surveyQ8" : [true, true, true, true, true, true, true, true, true, true, true], 
+			"surveyQ9" : [true, true, true, true, true, true, true, true, true, true],
 			}
 		},
 		]
